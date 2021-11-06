@@ -67,13 +67,14 @@ div {
 
 .t-cloud {
   position: relative;
-  left: 200px;
+  top: 10px;
+  left: 350px;
 }
 
 .b-cloud {
   position: relative;
-  left: 60px;
-  bottom: 300px;
+  left: 30px;
+  bottom: 350px;
 }
 
 hr {
@@ -83,6 +84,9 @@ hr {
   border-width: 10px;
   height: 0px;
   width: 10%;
+}
+a{
+  margin: 10px 15px;
 }
 
 /*.red{
@@ -174,7 +178,7 @@ h3 {
    -moz-border-radius: 20px;
    border-radius: 20px;
    color: #FFFFFF;
-   font-family: Arial;
+   font-family: 'Merriweather', serif;
    font-size: 18px;
    font-weight: 200;
    padding: 18px;
